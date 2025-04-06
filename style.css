@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-color: bisque;
+    padding: 100px;
+    text-align: center;
+}
+
+canvas{
+    border: 1px solid gray;
+    background-color: white;
+}
+
+button{
+    background-color: rgb(76, 117, 34);
+    color: rgb(255, 237, 211);
+    padding: 20px 40px;
+    margin: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+}
